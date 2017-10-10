@@ -1,0 +1,3 @@
+startup_message off
+caption always "%{+b bk}$USER@%{wk}%H %-21=%{wk}%D %d.%m.%Y %0c"
+hardstatus alwayslastline "%{wr}%n%f %t %{kw} | %?%-Lw%?%{wb}%n*%f %t%?(%u)%?%{kw}%?%+Lw%? %{wk}"
